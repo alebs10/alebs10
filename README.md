@@ -5,7 +5,7 @@
 ### Olá! Prazer, eu sou o Alexandre Barbosa 👽 
 
 
-- Estudando Java|Spring|MySql|React|HTML 👨‍💻.
+- Estudando Java|Spring Boot|MySql|React|HTML|CSS 👨‍💻.
 - Pronomes Ele/Dele.
 - Futuramente Desenvolvedor FullStack Java Junior.
 
