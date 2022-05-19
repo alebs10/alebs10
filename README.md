@@ -1,13 +1,13 @@
 
 ### Olá! Prazer, eu sou o Alexandre Barbosa 👽 
 
-<div>
-<img align="right"width=250px alt="Hackerman"src="https://github.com/alebs10/alebs10/blob/main/coding.gif">
-</div>
-
 - Estudando Java|Spring Boot|MySql|React|HTML|CSS 👨‍💻.
 - Pronomes Ele/Dele.
 - Futuramente Desenvolvedor FullStack Java Junior.
+
+<div>
+<img align="right"width=250px alt="Hackerman"src="https://github.com/alebs10/alebs10/blob/main/coding.gif">
+</div>
 
 ###
 
