@@ -1,9 +1,6 @@
 
 ### Olá! Prazer, eu sou o Alexandre Barbosa 👽 
 
-<div>
-<img width='100px' alt="Hackerman"src="https://github.com/alebs10/alebs10/blob/main/coding.gif">
-</div>
 
 - Estudando Java|Spring Boot|MySql|React|HTML|CSS 👨‍💻.
 - Pronomes Ele/Dele.
