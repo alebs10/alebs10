@@ -18,7 +18,7 @@
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alebs10&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebs10&layout=compact=8&theme=chartreuse-dark)](https://github.com/alebs10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebs10&langs_count=8&layout=compact&theme=chartreuse-dark)](https://github.com/alebs10/github-readme-stats)
 
 ## Tecnologias que eu uso diariamente 💻
 
