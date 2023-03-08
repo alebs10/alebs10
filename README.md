@@ -4,8 +4,6 @@
 
 <img  align="center" src="https://i.pinimg.com/originals/97/87/32/97873291f7ed0b69591065fb95b95ee4.gif" width="200px" height="200px"/>
 
-- C#|.Net|Java|Spring Boot|MySql|React|HTML|CSS|JavaScript|Python 👨‍💻.
-- Pronomes Ele/Dele.
 - Analista e Desenvolvedor de Sistemas(UNIP).
 - Desenvolvedor FullStack Java Junior.
 
@@ -15,7 +13,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrebsilva)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/458694105879543818)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebs10&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/alebs10">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebs10&layout=compact&theme=blue-green"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alebs10&show_icons=true&theme=blue-green"/>
+  </a>
+</div>
 
 ## Tecnologias que eu uso diariamente 💻
 
