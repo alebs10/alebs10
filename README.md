@@ -4,7 +4,7 @@
 
 <img  align="center" src="https://i.pinimg.com/originals/97/87/32/97873291f7ed0b69591065fb95b95ee4.gif" width="200px" height="200px"/>
 
-- Analista e Desenvolvedor de Sistemas(UNIP).
+- Analista e Desenvolvedor de Sistemas (UNIP).
 - Desenvolvedor FullStack Java Junior.
 
 ###
