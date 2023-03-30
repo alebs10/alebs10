@@ -15,6 +15,10 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/458694105879543818)
 
 
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebs10&show_icons=true&theme=chartreuse-dark&card_width=150)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebs10&layout=compact&theme=chartreuse-dark&langs_count=7&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que eu uso diariamente 💻
 
 <div style="display: inline_block"><br>
